@@ -1,0 +1,6 @@
+AvecSynth	KEYWORD1
+avec_sample	KEYWORD1
+begin	KEYWORD2
+Record	KEYWORD2
+Play	KEYWORD2
+
